@@ -1,0 +1,22 @@
+{
+  "name": "bga",
+  "version": "1.0.0",
+  "description": "Biased Generative Art algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrodriguez3313/BGA.git"
+  },
+  "author": "Marco Rodriguez-Salinas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrodriguez3313/BGA/issues"
+  },
+  "homepage": "https://github.com/mrodriguez3313/BGA#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
